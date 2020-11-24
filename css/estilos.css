@@ -1,8 +1,13 @@
 body
 {
     color: #333;
+<<<<<<< HEAD
     text-align: center;
     font-family: Arial ; 
+=======
+    text-align: left;
+    font-family: cursive; 
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
